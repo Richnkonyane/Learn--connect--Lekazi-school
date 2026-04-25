@@ -1,0 +1,16 @@
+name: learn_connect_lekazi
+description: Offline CAPS Learning for Lekazi Secondary
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  sqflite: ^2.3.0
+  path: ^1.8.3
+  sqflite_common_ffi_web: ^0.4.0
+
+flutter:
+  uses-material-design: true
